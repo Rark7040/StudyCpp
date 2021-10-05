@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/cpp/HandleCommand/build/CMakeFiles/HandleCommand.dir
+C:/Users/User/Desktop/cpp/HandleCommand/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Desktop/cpp/HandleCommand/build/CMakeFiles/ZERO_CHECK.dir
